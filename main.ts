@@ -1,3 +1,4 @@
+pins.touchSetMode(TouchTarget.P2, TouchTargetMode.Capacitive)
 let up = false
 let down = false
 let right = false

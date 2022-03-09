@@ -1,3 +1,4 @@
+pins.touch_set_mode(TouchTarget.P2, TouchTargetMode.CAPACITIVE)
 up = False
 down = False
 right = False
